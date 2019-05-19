@@ -8,18 +8,18 @@
 </style>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Ether-1 Wallet</title>
-<meta property="og:title" content="Ether-1 Wallet">
-<meta property="og:site_name" content="Ether-1 Wallet">
-<meta name="twitter:title" content="Ether-1 Wallet">
-<meta name="apple-mobile-web-app-title" content="Ether-1 Wallet">
+<title>Xerom Wallet</title>
+<meta property="og:title" content="Xerom Wallet">
+<meta property="og:site_name" content="Xerom Wallet">
+<meta name="twitter:title" content="Xerom Wallet">
+<meta name="apple-mobile-web-app-title" content="Xerom Wallet">
 <link href="https://www.ether1.org" rel="canonical">
 <meta content="https://www.ether1.org" property="og:url">
 <meta content="https://www.ether1.org" name="twitter:url">
 <link rel="stylesheet" href="css/etherwallet-master.min.css">
 <script type="text/javascript" src="js/etherwallet-static.min.js"></script>
 <script type="text/javascript" src="js/etherwallet-master.js"></script>
-<meta name="description" content="Ether-1 wallet is client-side interface for generating Ether-1 wallets & more. Interact with the Ether-1 blockchain easily & securely.">
+<meta name="description" content="Xerom wallet is client-side interface for generating Xerom wallets & more. Interact with the Xerom blockchain easily & securely.">
 <meta property="og:description"  content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="twitter:description" content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="robots" content="index,follow">
@@ -32,13 +32,13 @@
 <link rel="mask-icon" href="https://www.ether1.org/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-<meta name="apple-mobile-web-app-title" content="Ether-1 Wallet &middot; Your Key to Ether-1">
-<meta name="application-name" content="Ether-1 Wallet">
+<meta name="apple-mobile-web-app-title" content="Xerom Wallet &middot; Your Key to Xerom">
+<meta name="application-name" content="Xerom Wallet">
 <meta name="msapplication-config" content="images/fav/browserconfig.xml">
 <meta name="theme-color" content="#1d6986">
 <meta name="apple-mobile-web-app-status-bar-style" content="#1d6986">
 <meta property="og:url" content="https://www.ether1.org" />
-<meta property="og:title" content="Ether-1 Wallet  &middot; Your Key to Ether-1" />
+<meta property="og:title" content="Xerom Wallet  &middot; Your Key to Xerom" />
 <meta property="og:type" content="website">
 <meta property="og:image" content="/images/ether1-logo-banner.png" />
 <meta property="og:image" content="/images/ether1-logo.png" />
@@ -52,8 +52,8 @@
 {
 "@context": "http://schema.org",
 "@type" : "Organization",
-"name" : "Ether-1 Wallet",
-"legalName" : "Ether-1 Wallet",
+"name" : "Xerom Wallet",
+"legalName" : "Xerom Wallet",
 "url" : "https://www.ether1.org/",
 "contactPoint" : [{
   "@type" : "ContactPoint",
@@ -62,7 +62,7 @@
   "contactType" : "customer service"
 }],
 "logo" : "images/logo.png",
-"description": "Ether-1 Wallet is an open-source, client-side interface for generating Ether-1 wallets &amp; more. Interact with the Ether-1 blockchain easily &amp; securely.",
+"description": "Xerom Wallet is an open-source, client-side interface for generating Xerom wallets &amp; more. Interact with the Xerom blockchain easily &amp; securely.",
 "sameAs" : [
   "https://www.ether1.org/",
   "https://twitter.com/ether1official"
@@ -79,7 +79,7 @@
     <div class="container">
       DON'T GET PHISHED, please! 🎣 Thank you! 🤗
       <br />
-      1. BOOKMARK <a href="https://wallet.ether1.org">WALLET.ETHER1.ORG </a>
+      1. BOOKMARK <a href="https://wallet.ether1.org">WALLET.XEROM.ORG </a>
       <span class="hidden-xs">
         &nbsp;&nbsp;&nbsp;&nbsp;
         2. INSTALL <a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer">EAL</a>
@@ -97,7 +97,7 @@
    <div id="logoPicture">
     @@if (site === 'mew' ) {
       <a class="brand" href="/" aria-label="Go to homepage">
-        <img src="https://www.ether1.org/images/logo.png" alt="Ether1" />
+        <img src="https://fallengravity.github.io/xerom-website/img/logo.png" alt="Xerom" />
         <p class="small visible-xs">1.0.1</p>
       </a>
     }

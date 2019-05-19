@@ -4,11 +4,11 @@ nodes.customNode = require('./nodeHelpers/customNode');
 nodes.infuraNode = require('./nodeHelpers/infura');
 nodes.metamaskNode = require('./nodeHelpers/metamask');
 nodes.nodeTypes = {
-    ETHO: "ETHO"
+    XERO: "XERO"
 };
-nodes.ensNodeTypes = [nodes.nodeTypes.ETHO, nodes.nodeTypes.Ropsten];
-nodes.ensSubNodeTypes = [nodes.nodeTypes.ETHO];
-nodes.domainsaleNodeTypes = [nodes.nodeTypes.ETHO, nodes.nodeTypes.Ropsten];
+nodes.ensNodeTypes = [nodes.nodeTypes.XERO, nodes.nodeTypes.Ropsten];
+nodes.ensSubNodeTypes = [nodes.nodeTypes.XERO];
+nodes.domainsaleNodeTypes = [nodes.nodeTypes.XERO, nodes.nodeTypes.Ropsten];
 nodes.customNodeObj = {
     'name': 'CUS',
     'blockExplorerTX': '',
@@ -23,12 +23,12 @@ nodes.customNodeObj = {
 };
 nodes.nodeList = {
     'eth_mew': {
-        'name': 'Ether-1',
-        'blockExplorerTX': 'https://explorer.ether1.org/#/tx/[[txHash]]',
-        'blockExplorerAddr': 'https://explorer.ether1.org/addr/[[address]]',
-        'type': nodes.nodeTypes.ETHO,
+        'name': 'Xerom',
+        'blockExplorerTX': 'https://explorer.xerom.org/#/tx/[[txHash]]',
+        'blockExplorerAddr': 'https://explorer.xerom.org/addr/[[address]]',
+        'type': nodes.nodeTypes.XERO,
         'eip155': true,
-        'chainId': 1313114,
+        'chainId': 1313118,
         'tokenList': require('./tokens/ethTokens.json'),
         'abiList': require('./abiDefinitions/ethAbi.json'),
         'service': 'rpc.ether1.org',
