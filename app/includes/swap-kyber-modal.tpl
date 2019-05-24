@@ -133,7 +133,7 @@
                     </tr>
                     <tr ng-if="kyberTransaction.bypassTokenApprove">
                         <td class="small text-right">Max TX Fee:</td>
-                        <td class="small text-left mono"> {{parsedKyberTx.txFee.eth}} ETH
+                        <td class="small text-left mono"> {{parsedKyberTx.txFee.eth}} XERO
                             <small>({{parsedKyberTx.txFee.gwei}} GWEI)</small>
                         </td>
                     </tr>
