@@ -31,8 +31,8 @@ nodes.nodeList = {
         'chainId': 1313118,
         'tokenList': require('./tokens/ethTokens.json'),
         'abiList': require('./abiDefinitions/ethAbi.json'),
-        'service': 'rpc.ether1.org',
-        'lib': new nodes.customNode('https://rpc.ether1.org', '443')
+        'service': 'rpc.xerom.org',
+        'lib': new nodes.customNode('https://rpc.xerom.org', '443')
     },
 };
 
