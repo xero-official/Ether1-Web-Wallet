@@ -20,8 +20,8 @@
 <script type="text/javascript" src="js/etherwallet-static.min.js"></script>
 <script type="text/javascript" src="js/etherwallet-master.js"></script>
 <meta name="description" content="Xerom wallet is client-side interface for generating Xerom wallets & more. Interact with the Xerom blockchain easily & securely.">
-<meta property="og:description"  content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
-<meta name="twitter:description" content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
+<meta property="og:description"  content="Free, open-source, client-side XERO wallet. Enabling you to interact with the blockchain easily & securely.">
+<meta name="twitter:description" content="Free, open-source, client-side XERO wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow">
 <meta name="google-site-verification" content="IpChQ00NYUQuNs_7Xs6xlnSdzalOlTUYbBsr8f7OpvM" />
