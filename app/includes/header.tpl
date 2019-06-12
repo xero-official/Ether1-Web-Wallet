@@ -97,7 +97,7 @@
    <div id="logoPicture">
     @@if (site === 'mew' ) {
       <a class="brand" href="/" aria-label="Go to homepage">
-        <img src="https://fallengravity.github.io/xerom-website/img/logo.png" alt="Xerom" />
+        <img src="https://github.com/xero-official/images/blob/master/xerom-1920x1080.png?raw=true" alt="Xerom" />
         <p class="small visible-xs">1.0.1</p>
       </a>
     }
