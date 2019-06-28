@@ -28,7 +28,7 @@ nodes.nodeList = {
         'blockExplorerAddr': 'https://explorer.xerom.org/addr/[[address]]',
         'type': nodes.nodeTypes.XERO,
         'eip155': true,
-        'chainId': 1313118,
+        'chainId': 1313500,
         'tokenList': require('./tokens/ethTokens.json'),
         'abiList': require('./abiDefinitions/ethAbi.json'),
         'service': 'rpc.xerom.org',
